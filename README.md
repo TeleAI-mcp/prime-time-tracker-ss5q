@@ -1,2 +1,3 @@
-# prime-time-tracker-ss5q
+# Prime Time Tracker Ss5Q
+
 A repository to test GitHub automation for issue management.
